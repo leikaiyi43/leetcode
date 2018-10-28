@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Stack;
 
 // https://leetcode.com/problems/valid-parentheses/
-public class ValidParenthese {
+public class ValidParentheses {
 
     static class Solution {
         private static final Map<Character, Character> PARENTHESES;
